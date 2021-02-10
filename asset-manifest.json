@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/LyricSearch/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/LyricSearch/static/js/main.e57f1f1f.chunk.js",
+    "main.js.map": "/LyricSearch/static/js/main.e57f1f1f.chunk.js.map",
+    "runtime-main.js": "/LyricSearch/static/js/runtime-main.276700b9.js",
+    "runtime-main.js.map": "/LyricSearch/static/js/runtime-main.276700b9.js.map",
+    "static/js/2.fd080fbe.chunk.js": "/LyricSearch/static/js/2.fd080fbe.chunk.js",
+    "static/js/2.fd080fbe.chunk.js.map": "/LyricSearch/static/js/2.fd080fbe.chunk.js.map",
+    "index.html": "/LyricSearch/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/LyricSearch/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.fd080fbe.chunk.js.LICENSE.txt": "/LyricSearch/static/js/2.fd080fbe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.276700b9.js",
+    "static/js/2.fd080fbe.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e57f1f1f.chunk.js"
+  ]
+}
